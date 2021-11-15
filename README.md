@@ -1,4 +1,4 @@
-s is code that accompanies the paper titled **"Keyword Assisted Embedded Topic Model"** by Bahareh Harandizadeh, J. Hunter Priniski, and Fred Morstatter.
+This is code that accompanies the paper titled **"Keyword Assisted Embedded Topic Model"** by Bahareh Harandizadeh, J. Hunter Priniski, and Fred Morstatter.
 ETM was originally published by Adji B. Dieng, Francisco J. R. Ruiz, and David M. Blei on a article titled [Topic Modeling in Embedding Spaces](https://arxiv.org/abs/1907.04907). The backbone of this repo has been extracted from the ETM original [code](https://github.com/adjidieng/ETM) and an adoption [code](https://github.com/lffloyd/embedded-topic-model/tree/85a817cf456b02d8ba67ea1f00b984ddf79c68f6) from it. Most of the original code was kept here, with some changes to equip ETM with the ability to incorporate user knowledge in the form of informative topic-level priors over the vocabulary.
 
 # Installation

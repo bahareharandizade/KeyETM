@@ -1,0 +1,6 @@
+gun,fire,weapon,fbi,law
+circuit,wire,system,power,ground
+church,christian,jesu,sin,bibl
+space,orbit,launch,satellit,earth
+israel,arab,armenian,muslim,jew
+medic,cancer,patient,diseas,health

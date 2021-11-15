@@ -1,0 +1,17 @@
+dataset:
+  folder-path: 'Data/20newsgroup/'
+  result-file: 'result/'
+  data-file: 'newsgroup_subset_lables.csv'
+  sw-file: 'seedword_set.txt'
+  
+model:
+  bs: 45
+  nt: 6
+  epochs: 30
+  drop_out: 0.5
+  theta_act: "softplus"
+  lr: 0.005
+  lambda_theta: 35.0
+  lambda_alpha: 15.0
+  path: 'model/20newsgroup/'
+

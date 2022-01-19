@@ -30,5 +30,10 @@ python run.py --config configs/name_config_file.yaml
 # Citation
 To site KeyETM, please use the following link:
 ```
-
+@article{harandizadeh2021keyword,
+  title={Keyword Assisted Embedded Topic Model},
+  author={Harandizadeh, Bahareh and Priniski, J Hunter and Morstatter, Fred},
+  journal={arXiv preprint arXiv:2112.03101},
+  year={2021}
+}
 ```
